@@ -52,7 +52,12 @@ website:
     contents:
       - index.qmd # preface
       # START SESSIONS
-      # SESSION_LINKS
+      - s01_git_advanced_git_github.qmd
+      - s02_git_setup.qmd
+      - s03_github_collaboration.qmd
+      - s04_github_introduction.qmd
+      - s05_r_git_install_guide.qmd
+      - s06_r_practice_clean_wrangle_visualize.qmd
       # END SESSIONS
 
   page-footer:
