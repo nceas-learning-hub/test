@@ -18,7 +18,7 @@ format:
     code-annotations: hover       ### tool tip style footnotes for code
     link-external-newwindow: true ### sets {target = "_blank"} for external links
     link-external-icon: true      ### adds icon to external links
-    hide-descriptions: true       ### suppresses descriptions under title
+    hide-description: true       ### suppresses descriptions under title
 
 website:
   title: "test"

@@ -5,6 +5,10 @@ exercises: ### for custom exercise callouts
   number: false ### suppress numbering
 categories: [data-wrangling, data-visualization, tidyverse, git, github, collaboration, activity, intermediate, practice]
 description: "Paired practice session cleaning, wrangling, and visualizing lobster data collaboratively, then publishing a joint report to GitHub Pages."
+format:
+    theme-html:
+        hide-description: true
+
 ---
 <!-- recommended prerequisites: 
 * github_introduction
