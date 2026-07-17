@@ -18,6 +18,7 @@ format:
     code-annotations: hover       ### tool tip style footnotes for code
     link-external-newwindow: true ### sets {target = "_blank"} for external links
     link-external-icon: true      ### adds icon to external links
+    hide-descriptions: true       ### suppresses descriptions under title
 
 website:
   title: "test"
@@ -58,6 +59,7 @@ website:
       - s04_github_introduction.qmd
       - s05_r_git_install_guide.qmd
       - s06_r_practice_clean_wrangle_visualize.qmd
+      - s07_new_crap.qmd
       # END SESSIONS
 
   page-footer:
